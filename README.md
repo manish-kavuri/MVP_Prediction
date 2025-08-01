@@ -13,17 +13,6 @@ The goal of this project is to identify likely MVP candidates based on advanced 
 - Model training using multiple classifiers
 - Final prediction of MVP probabilities for 2025
 
-## 📂 Project Structure
-
-MVP_PREDICTION/
-├── Data/ # Raw and processed datasets
-├── EDA/ # Notebooks and scripts for exploratory analysis
-├── Modeling/ # Model training, tuning, and evaluation
-├── Scraping/ # Scripts for scraping per-game and advanced stats
-├── cache/ # Intermediate data (ignored in Git)
-├── .gitignore # Ignored files (e.g., virtual env, cache, model files)
-├── LICENSE
-└── README.md
 ## 🔍 Data Sources
 
 - **Player stats:** Scraped from Basketball Reference:
