@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.npy
+*.pkl
+
+# OS/system files
+.DS_Store
+
+# VS Code settings (if applicable)
+.vscode/
+
+# Cache folders
+cache/

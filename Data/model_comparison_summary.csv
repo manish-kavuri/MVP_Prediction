@@ -1,0 +1,7 @@
+,F1 Score,Best Params
+GradientBoosting,0.3333333333333333,"{'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 50}"
+LogisticRegression,0.3333333333333333,{'C': 0.01}
+RandomForest,0.0,"{'max_depth': 3, 'n_estimators': 50}"
+XGBoost,0.0,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}"
+SVC,0.0,"{'C': 0.1, 'kernel': 'linear'}"
+MLPClassifier,0.0,"{'alpha': 0.001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive'}"
